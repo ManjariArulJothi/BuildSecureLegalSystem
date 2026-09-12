@@ -1,0 +1,10 @@
+{
+  "description": "A secure legal and investigation platform offering role-based dashboards for police, prosecutors, and judges to manage cases, documents, and hearings efficiently.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
